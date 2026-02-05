@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:9631,
-to:9720,
+from:9901,
+to:9990,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -7688,8 +7688,8 @@ vb:[-4,-4,2,2]
 Slide2039:{
 lb:'Multiple choice 1',
 id:2039,
-from:4861,
-to:4950,
+from:9991,
+to:10080,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -7768,7 +7768,7 @@ bookmarks:[]
 ,
 qs:'Slide2039q4',
 qnq:4,
-pa:4906,
+pa:10036,
 iph:{
 2074:{
 ts:'',
@@ -7807,7 +7807,7 @@ visible:'1'
 },
 Slide2039q4:{
 noa:1,
-qt:'Steve is waiting for the elevator to the career fair venue and notices a recruiter standing next to him. How should Steve start a conversation to introduce himself?Steve is waiting for the elevator to the career fair venue and notices a recruiter standing next to him. How should Steve start a conversation to introduce himself?Steve is waiting for the elevator to the career fair venue and notices a recruiter standing next to him. How should Steve start a conversation to introduce himself?Steve is waiting for the elevator to the career fair venue and notices a recruiter standing next to him. How should Steve start a conversation to introduce himself?Steve is waiting for the elevator to the career fair venue and notices a recruiter standing next to him. How should Steve start a conversation to introduce himself?Steve is waiting for the elevator to the career fair venue and notices a recruiter standing next to him. How should Steve start a conversation to introduce himself?Steve is waiting for the elevator to the career fair venue and notices a recruiter standing next to him. How should Steve start a conversation to introduce himself?',
+qt:'Steve is waiting for the elevator to the career fair venue and notices a recruiter standing next to him. How should Steve start a conversation to introduce himself?Steve is waiting for the elevator to the career fair venue and notices a recruiter standing next to him. How should Steve start a conversation to introduce himself?Steve is waiting for the elevator to the career fair venue and notices a recruiter standing next to him. How should Steve start a conversation to introduce himself?Steve is waiting for the elevator to the career fair venue and notices a recruiter standing next to him. How should Steve start a conversation to introduce himself?Steve is waiting for the elevator to the career fair venue and notices a recruiter standing next to him. How should Steve start a conversation to introduce himself?Steve is waiting for the elevator to the career fair venue and notices a recruiter standing next to him. How should Steve start a conversation to introduce himself?Steve is waiting for the elevator to the career fair venue and notices a recruiter standing next to him. How should Steve start a conversation to introduce himself?Steve is waiting for the elevator to the career fair venue and notices a recruiter standing next to him. How should Steve start a conversation to introduce himself?',
 it:true,
 is:false,
 ipq:false,
@@ -33581,8 +33581,8 @@ visible:'1'
 si5996:{
 name:'Scenario-Block-2_1',
 type:1268,
-from:9001,
-to:9090,
+from:10081,
+to:10170,
 rp:0,
 rpa:0,
 mdi:'si5996c',
@@ -34127,8 +34127,8 @@ vb:[-1,-1,361,721]
 si6027:{
 name:'Character-Speech-Card_1',
 type:1268,
-from:9001,
-to:9090,
+from:10081,
+to:10170,
 rp:0,
 rpa:0,
 mdi:'si6027c',
@@ -34295,8 +34295,8 @@ vb:[-1,-1,1,1]
 si6035:{
 name:'Text_78',
 type:1250,
-from:9001,
-to:9090,
+from:10081,
+to:10170,
 rp:0,
 rpa:0,
 mdi:'si6035c',
@@ -34326,7 +34326,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"7ur16","text":"Great Start! Let’s Fine-Tune Your Skills.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":41,"style":"hlnk:"},{"offset":0,"length":41,"style":"hlnkt:wp"},{"offset":0,"length":41,"style":"textOutlineEnable:false"},{"offset":0,"length":41,"style":"opacity:1"},{"offset":0,"length":41,"style":"hlnke:true"},{"offset":0,"length":41,"style":"backgroundColor:unset"},{"offset":0,"length":41,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":41,"style":"textHighlightEnable:false"},{"offset":0,"length":41,"style":"textShadowEnable:false"},{"offset":0,"length":41,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-body-1","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}},{"key":"45qn0","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","verticalAlign":"middle","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"ecfks","text":"You’re off to a strong start, but mastering the art of small talk takes a little extra practice. To help you feel 100% confident in your next social interaction, we’ve prepared a quick \\"Radar Calibration\\" module. You will review a few key strategies and then tackle two new practice tasks to sharpen your skills. Let’s get you ready for that next conversation!","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":360,"style":"textShadow:none"},{"offset":0,"length":360,"style":"mobile-fontSize:18"},{"offset":0,"length":360,"style":"textShadowX:0px"},{"offset":0,"length":360,"style":"fontStretch:normal"},{"offset":0,"length":360,"style":"fontType:regular"},{"offset":0,"length":360,"style":"color:#333333"},{"offset":0,"length":360,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":360,"style":"textShadowY:4px"},{"offset":0,"length":360,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":360,"style":"letterSpacing:0%"},{"offset":0,"length":360,"style":"textHighlightEnable:false"},{"offset":0,"length":360,"style":"textTransform:none"},{"offset":0,"length":360,"style":"textShadowOpacity:none"},{"offset":0,"length":360,"style":"overridden:true"},{"offset":0,"length":360,"style":"textDecoration:none"},{"offset":0,"length":360,"style":"lineHeight:130%"},{"offset":0,"length":360,"style":"fontFamily:Georgia"},{"offset":0,"length":360,"style":"borderBottomStyle:none"},{"offset":162,"length":50,"style":"fontWeight:bold"},{"offset":0,"length":360,"style":"desktop-fontSize:22"},{"offset":0,"length":360,"style":"textShadowEnable:false"},{"offset":0,"length":360,"style":"hlnk:"},{"offset":0,"length":162,"style":"fontWeight:normal"},{"offset":212,"length":148,"style":"fontWeight:normal"},{"offset":0,"length":360,"style":"backgroundColor:unset"},{"offset":0,"length":360,"style":"textShadowBlur:8px"},{"offset":0,"length":360,"style":"hlnkt:wp"},{"offset":0,"length":360,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":360,"style":"tablet-fontSize:20"},{"offset":0,"length":360,"style":"fontStyle:normal"},{"offset":0,"length":360,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":360,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":360,"style":"textOutlineEnable:false"},{"offset":0,"length":360,"style":"opacity:1"},{"offset":0,"length":360,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":360,"style":"hlnke:true"},{"offset":0,"length":360,"style":"defaultTextShadow:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}},{"key":"ap13d","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}},{"key":"236i0","text":"If you feel confident enough, you can also click on  GO TO QUIZ button to start taking quiz again.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"7ur16","text":"Great Start! Let’s Fine-Tune Your Skills.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":41,"style":"hlnk:"},{"offset":0,"length":41,"style":"hlnkt:wp"},{"offset":0,"length":41,"style":"textOutlineEnable:false"},{"offset":0,"length":41,"style":"opacity:1"},{"offset":0,"length":41,"style":"hlnke:true"},{"offset":0,"length":41,"style":"backgroundColor:unset"},{"offset":0,"length":41,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":41,"style":"textHighlightEnable:false"},{"offset":0,"length":41,"style":"textShadowEnable:false"},{"offset":0,"length":41,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-body-1","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}},{"key":"45qn0","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","verticalAlign":"middle","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"ecfks","text":"You’re off to a strong start, but mastering the art of small talk takes a little extra practice. To help you feel 100% confident in your next social interaction, we’ve prepared a quick \\"Radar Calibration\\" module. You will review a few key strategies and then tackle two new practice tasks to sharpen your skills. Let’s get you ready for that next conversation!","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":360,"style":"hlnkt:wp"},{"offset":0,"length":360,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":360,"style":"tablet-fontSize:20"},{"offset":0,"length":360,"style":"fontStyle:normal"},{"offset":0,"length":360,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":360,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":360,"style":"textOutlineEnable:false"},{"offset":0,"length":360,"style":"opacity:1"},{"offset":0,"length":360,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":360,"style":"hlnke:true"},{"offset":0,"length":360,"style":"defaultTextShadow:none"},{"offset":0,"length":360,"style":"textShadow:none"},{"offset":0,"length":360,"style":"mobile-fontSize:18"},{"offset":0,"length":360,"style":"textShadowX:0px"},{"offset":0,"length":360,"style":"fontStretch:normal"},{"offset":0,"length":360,"style":"fontType:regular"},{"offset":0,"length":360,"style":"color:#333333"},{"offset":0,"length":360,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":360,"style":"textShadowY:4px"},{"offset":0,"length":360,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":360,"style":"letterSpacing:0%"},{"offset":0,"length":360,"style":"textHighlightEnable:false"},{"offset":0,"length":360,"style":"textTransform:none"},{"offset":0,"length":360,"style":"textShadowOpacity:none"},{"offset":0,"length":360,"style":"overridden:true"},{"offset":0,"length":360,"style":"textDecoration:none"},{"offset":0,"length":360,"style":"lineHeight:130%"},{"offset":0,"length":360,"style":"fontFamily:Georgia"},{"offset":0,"length":360,"style":"borderBottomStyle:none"},{"offset":162,"length":50,"style":"fontWeight:bold"},{"offset":0,"length":360,"style":"desktop-fontSize:22"},{"offset":0,"length":360,"style":"textShadowEnable:false"},{"offset":0,"length":360,"style":"hlnk:"},{"offset":0,"length":162,"style":"fontWeight:normal"},{"offset":212,"length":148,"style":"fontWeight:normal"},{"offset":0,"length":360,"style":"backgroundColor:unset"},{"offset":0,"length":360,"style":"textShadowBlur:8px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}},{"key":"ap13d","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}},{"key":"236i0","text":"If you feel confident enough, you can also click on  GO TO QUIZ button to start taking quiz again.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -35453,8 +35453,8 @@ vb:[-2,-2,-1,-1]
 si10460:{
 name:'Block_Button_4',
 type:1268,
-from:9001,
-to:9090,
+from:10081,
+to:10170,
 rp:0,
 rpa:0,
 mdi:'si10460c',
@@ -35620,8 +35620,8 @@ vb:[-1,-1,1,1]
 si10468:{
 name:'Block_Button_Group_4',
 type:1268,
-from:9001,
-to:9090,
+from:10081,
+to:10170,
 rp:0,
 rpa:0,
 mdi:'si10468c',
@@ -35824,8 +35824,8 @@ vb:[-1,-1,1,1]
 si10476:{
 name:'Button_153',
 type:29,
-from:9001,
-to:9090,
+from:10081,
+to:10170,
 rp:0,
 rpa:0,
 mdi:'si10476c',
@@ -35853,7 +35853,7 @@ efph:{
 }
 ,
 eflh:[],
-oca:'{"scripts":[{"then":[["cp.returnToQuiz()"]]}]}',
+oca:'{"scripts":[{"then":[["cp.goToSlide(10634,2039);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -37375,8 +37375,8 @@ vb:[-2,-2,-1,-1]
 Slide5978:{
 lb:'Conversation 1',
 id:5978,
-from:9001,
-to:9090,
+from:10081,
+to:10170,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -58375,8 +58375,8 @@ vb:[-1,-1,2,2]
 si8779:{
 name:'Block_Button_2',
 type:1268,
-from:5131,
-to:5220,
+from:10171,
+to:10260,
 rp:0,
 rpa:0,
 mdi:'si8779c',
@@ -58542,8 +58542,8 @@ vb:[-1,-1,1,1]
 si8787:{
 name:'Block_Button_Group_2',
 type:1268,
-from:5131,
-to:5220,
+from:10171,
+to:10260,
 rp:0,
 rpa:0,
 mdi:'si8787c',
@@ -58746,8 +58746,8 @@ vb:[-1,-1,1,1]
 si8795:{
 name:'Button_102',
 type:29,
-from:5131,
-to:5220,
+from:10171,
+to:10260,
 rp:0,
 rpa:0,
 mdi:'si8795c',
@@ -58775,7 +58775,7 @@ efph:{
 }
 ,
 eflh:[],
-oca:'{"scripts":[{"then":[["cp.returnToQuiz()"]]}]}',
+oca:'{"scripts":[{"then":[["cp.goToSlide(8946,2039);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -60297,8 +60297,8 @@ vb:[-2,-2,-1,-1]
 Slide8679:{
 lb:'Blank 8',
 id:8679,
-from:8191,
-to:8280,
+from:10171,
+to:10260,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -68955,7 +68955,7 @@ resources:['dr/0567.svg']
 }
 ];
 cp.model.audioresources=[{
-slideID:1,
+slideID:0,
 ResourceList:{
 resources:['ar/KeyClick.mp3']
 }
