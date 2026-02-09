@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:2341,
-to:2430,
+from:2701,
+to:2790,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -60064,8 +60064,8 @@ visible:'1'
 si10353:{
 name:'Paragraph_5',
 type:1268,
-from:1981,
-to:2070,
+from:2791,
+to:2880,
 rp:0,
 rpa:0,
 mdi:'si10353c',
@@ -60231,8 +60231,8 @@ vb:[-1,-1,1,1]
 si10361:{
 name:'Paragraph_Group_5',
 type:1268,
-from:1981,
-to:2070,
+from:2791,
+to:2880,
 rp:0,
 rpa:0,
 mdi:'si10361c',
@@ -60403,8 +60403,8 @@ vb:[-1,-1,1,1]
 si10369:{
 name:'Text_130',
 type:1250,
-from:1981,
-to:2070,
+from:2791,
+to:2880,
 rp:0,
 rpa:0,
 mdi:'si10369c',
@@ -61358,8 +61358,8 @@ vb:[-2,-2,-1,-1]
 si9627:{
 name:'Block_Button_3',
 type:1268,
-from:1531,
-to:1620,
+from:2791,
+to:2880,
 rp:0,
 rpa:0,
 mdi:'si9627c',
@@ -61525,8 +61525,8 @@ vb:[-1,-1,1,1]
 si9635:{
 name:'Block_Button_Group_3',
 type:1268,
-from:1531,
-to:1620,
+from:2791,
+to:2880,
 rp:0,
 rpa:0,
 mdi:'si9635c',
@@ -61725,8 +61725,8 @@ vb:[-1,-1,1,1]
 si9643:{
 name:'Button_121',
 type:29,
-from:1531,
-to:1620,
+from:2791,
+to:2880,
 rp:0,
 rpa:0,
 mdi:'si9643c',
@@ -61754,7 +61754,7 @@ efph:{
 }
 ,
 eflh:[],
-oca:'{"scripts":[{"then":[["cp.runJavascript(\\"dmFyIHVzZXJUZXh0ID0gd2luZG93LmNwQVBJSW50ZXJmYWNlLmdldFZhcmlhYmxlVmFsdWUoInZfVXNlclJlc3BvbnNlIik7CnZhciBhcGlVcmwgPSAnaHR0cHM6Ly9hZG9iZS1jYXB0aXZhdGUtc21hbGwtdGFsay1hcGkudmVyY2VsLmFwcC9hcGkvYXBpX2V2YWx1YXRlJzsgCgp3aW5kb3cuY3BBUElJbnRlcmZhY2Uuc2V0VmFyaWFibGVWYWx1ZSgidl9GZWVkYmFjayIsICJBSSBpcyBhbmFseXppbmcgeW91ciByZXNwb25zZS4uLiBQbGVhc2Ugd2FpdC4iKTsKCmZldGNoKGFwaVVybCwgewogICAgbWV0aG9kOiAnUE9TVCcsCiAgICBoZWFkZXJzOiB7ICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfSwKICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsgdGV4dDogdXNlclRleHQgfSkKfSkKLnRoZW4ocmVzcG9uc2UgPT4gewogICAgaWYgKCFyZXNwb25zZS5vaykgdGhyb3cgbmV3IEVycm9yKCdOZXR3b3JrIHJlc3BvbnNlIHdhcyBub3Qgb2snKTsKICAgIHJldHVybiByZXNwb25zZS5qc29uKCk7Cn0pCi50aGVuKGRhdGEgPT4gewogIAogICAgdmFyIHJlc1N0YXR1cyA9IGRhdGEuc3RhdHVzIHx8ICJOL0EiOwogICAgdmFyIHJlc0V4cGxhbmF0aW9uID0gZGF0YS5leHBsYW5hdGlvbiB8fCAiTm8gZGV0YWlscyBwcm92aWRlZC4iOwoKCiAgICB2YXIgZm9ybWF0dGVkRmVlZGJhY2sgPSAiU3RhdHVzOiBcIiIgKyByZXNTdGF0dXMgKyAiXCJcblxuIiArICJFeHBsYW5hdGlvbjogIiArIHJlc0V4cGxhbmF0aW9uOwoKaWYgKHJlc1N0YXR1cyA9PT0gIlBhc3MiKSB7CiAgICAgICAgd2luZG93LmNwQVBJSW50ZXJmYWNlLmNoYW5nZVN0YXRlKCJJbnB1dEZpZWxkXzQiLCAiU3VjY2VzcyIpOwogICAgfSBlbHNlIGlmIChyZXNTdGF0dXMgPT09ICJGYWlsIikgewogICAgICAgIHdpbmRvdy5jcEFQSUludGVyZmFjZS5jaGFuZ2VTdGF0ZSgiSW5wdXRGaWVsZF80IiwgIkZhaWx1cmUiKTsKICAgIH0gZWxzZSB7CiAgICAgICAgd2luZG93LmNwQVBJSW50ZXJmYWNlLmNoYW5nZVN0YXRlKCJJbnB1dEZpZWxkXzQiLCAiTm9ybWFsIik7CiAgICB9Cn0pCgogICAgd2luZG93LmNwQVBJSW50ZXJmYWNlLnNldFZhcmlhYmxlVmFsdWUoInZfRmVlZGJhY2siLCAiT29wcyEgQ29ubmVjdGlvbiBmYWlsZWQuIENoZWNrIHlvdXIgQVBJIEtleSBvciBOZXR3b3JrLiIpOwp9KTs=\\",\\"_self\\");"]]}]}',
+oca:'{"scripts":[{"then":[["cp.runJavascript(\\"dmFyIHVzZXJUZXh0ID0gd2luZG93LmNwQVBJSW50ZXJmYWNlLmdldFZhcmlhYmxlVmFsdWUoInZfVXNlclJlc3BvbnNlIik7CnZhciBhcGlVcmwgPSAnaHR0cHM6Ly9hZG9iZS1jYXB0aXZhdGUtc21hbGwtdGFsay1hcGkudmVyY2VsLmFwcC9hcGkvYXBpX2V2YWx1YXRlJzsgCgoKd2luZG93LmNwQVBJSW50ZXJmYWNlLnNldFZhcmlhYmxlVmFsdWUoInZfRmVlZGJhY2siLCAiQUkgaXMgYW5hbHl6aW5nIHlvdXIgcmVzcG9uc2UuLi4gUGxlYXNlIHdhaXQuIik7CgpmZXRjaChhcGlVcmwsIHsKICAgIG1ldGhvZDogJ1BPU1QnLAogICAgaGVhZGVyczogeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0sCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IHRleHQ6IHVzZXJUZXh0IH0pCn0pCi50aGVuKHJlc3BvbnNlID0+IHsKICAgIGlmICghcmVzcG9uc2Uub2spIHRocm93IG5ldyBFcnJvcignTmV0d29yayByZXNwb25zZSB3YXMgbm90IG9rJyk7CiAgICByZXR1cm4gcmVzcG9uc2UuanNvbigpOwp9KQoudGhlbihkYXRhID0+IHsKICAgIHZhciByZXNTdGF0dXMgPSBkYXRhLnN0YXR1cyB8fCAiTi9BIjsKICAgIHZhciByZXNFeHBsYW5hdGlvbiA9IGRhdGEuZXhwbGFuYXRpb24gfHwgIk5vIGRldGFpbHMgcHJvdmlkZWQuIjsKICAgIHZhciBmb3JtYXR0ZWRGZWVkYmFjayA9ICJTdGF0dXM6IFwiIiArIHJlc1N0YXR1cyArICJcIlxuXG4iICsgIkV4cGxhbmF0aW9uOiAiICsgcmVzRXhwbGFuYXRpb247CgoKICAgIHdpbmRvdy5jcEFQSUludGVyZmFjZS5zZXRWYXJpYWJsZVZhbHVlKCJ2X0ZlZWRiYWNrIiwgZm9ybWF0dGVkRmVlZGJhY2spOwoKCiAgICBpZiAocmVzU3RhdHVzID09PSAiUGFzcyIpIHsKICAgICAgICB3aW5kb3cuY3BBUElJbnRlcmZhY2UuY2hhbmdlU3RhdGUoIklucHV0RmllbGRfNCIsICJTdWNjZXNzIik7CiAgICB9IGVsc2UgaWYgKHJlc1N0YXR1cyA9PT0gIkZhaWwiKSB7CiAgICAgICAgd2luZG93LmNwQVBJSW50ZXJmYWNlLmNoYW5nZVN0YXRlKCJJbnB1dEZpZWxkXzQiLCAiRmFpbHVyZSIpOwogICAgfSBlbHNlIHsKICAgICAgICB3aW5kb3cuY3BBUElJbnRlcmZhY2UuY2hhbmdlU3RhdGUoIklucHV0RmllbGRfNCIsICJOb3JtYWwiKTsKICAgIH0KfSkKLmNhdGNoKGVycm9yID0+IHsKICAgIGNvbnNvbGUuZXJyb3IoJ0Vycm9yOicsIGVycm9yKTsKICAgIHdpbmRvdy5jcEFQSUludGVyZmFjZS5zZXRWYXJpYWJsZVZhbHVlKCJ2X0ZlZWRiYWNrIiwgIk9vcHMhIENvbm5lY3Rpb24gZmFpbGVkLiBDaGVjayB5b3VyIE5ldHdvcmsuIik7CiAgICB3aW5kb3cuY3BBUElJbnRlcmZhY2UuY2hhbmdlU3RhdGUoIklucHV0RmllbGRfNCIsICJOb3JtYWwiKTsKfSk7\\",\\"_self\\");"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -63770,8 +63770,8 @@ vb:[-2,-2,-1,-1]
 Slide9209:{
 lb:'Blank 9',
 id:9209,
-from:1981,
-to:2070,
+from:2791,
+to:2880,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -64979,7 +64979,7 @@ resources:['dr/0567.svg']
 }
 ];
 cp.model.audioresources=[{
-slideID:1,
+slideID:0,
 ResourceList:{
 resources:['ar/KeyClick.mp3']
 }
